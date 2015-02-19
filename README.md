@@ -21,5 +21,7 @@ MYSQL Query Browser - DBMS GUI Tool
 Neil Ragadio - ngr_24@ymail.com<br>
 Ando Bellesco - andobellesco@yahoo.com<br>
 
+Credit to this Website http://www.weebly.com/ for free templates.
+
 
 Questions and comments email me at ngr_24@ymail.com.
