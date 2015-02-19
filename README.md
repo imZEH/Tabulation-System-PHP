@@ -12,7 +12,7 @@ Data(Information gathered) from Desktop application and display to the cloud(Web
 <h3>Tools / Programming Languages</h3>
 PHP - Backend to Commmunicate Database.<br>
 HTML,CSS,JS - For Templating<br>
-MYSQL Server - DBMS usedto manage The data on Database.<br>
+MYSQL Server - DBMS used to manage The data on Database.<br>
 
 Notepad++ - the IDE use to develop<br>
 MYSQL Query Browser - DBMS GUI Tool
