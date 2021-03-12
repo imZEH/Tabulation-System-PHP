@@ -18,10 +18,10 @@ Notepad++ - the IDE use to develop<br>
 MYSQL Query Browser - DBMS GUI Tool
 
 <h3>Contributor</h3>
-Neil Ragadio - pi.neilr23@gmail.com<br>
-Ando Bellesco - andobellesco@yahoo.com<br>
+Neil Ragadio<br>
+Ando Bellesco<br>
 
 Credit to this Website http://www.weebly.com/ for free templates.
 
 
-Questions and comments email me at pi.neilr23@gmail.com.
+Questions and comments feel free to create an issue to this repository.
